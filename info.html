@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title class="infoTitle"></title>
+    <link rel="stylesheet" href="./style.css">
+    <script defer src="./main2.js"></script>
+</head>
+<body>
+    <header>
+        <a href="./index.html"><img id="logo" src="./images/IMG_2299.PNG" alt="APIcker" style="float: left;"></a>
+    </header>
+    <br>
+    <br>
+    <article class="info">
+        <h3 id="infoH1">Enter and submit suggested API for review</h3>
+        <P>* Required Fields</P>
+    <p></p>
+        <form id="infoSuggest" style="float: center;">
+
+<br>
+            <p><input type="text" placeholder="CATEGORY"></p>
+           
+            <p><input type="text" placeholder="DESCRIPTION"></p>
+            <p><input type="text" placeholder="AUTHENTICATION NEEDED"></p>
+            <p>CORS?
+                <select name="cors" id="cors">
+                    <option value="Yes">YES</option>
+                    <option value="No">NO</option>
+                </select>
+            </p>
+            <P>
+                HTTPS?
+                <select name="https" id="https">
+                    <option value="true">TRUE</option>
+                    <option value="false">FALSE</option>
+                </select>
+            </P>
+            <p>
+                *<input type="link" placeholder="LINK" required>
+            </p>
+            <button id="submitSuggest">SUBMIT</button>
+        </form>
+
+    </article>
+</body>
+</html>
