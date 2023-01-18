@@ -15,8 +15,8 @@ APIcker makes it simple to find most API's available based on their category by 
 A list of API's will be shown on submit, or by clicking a category.
 
 * **Hover** over each API to view the description
-* **click once** to view full API information
-* **double click** to hide full API information
+* **Click once** to view full API information
+* **Double click** to hide full API information
 
 <br>
 
