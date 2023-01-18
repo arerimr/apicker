@@ -33,11 +33,11 @@ If there's an API that you dont see and think should be included use our ['Submi
 
 <br>
 
-### API's Used
+### API's
 🔌 [GIPHY](https://developers.giphy.com/) <br />
 🔌 [PUBLIC APIS](https://api.publicapis.org/)
 
-### Languages Used
+### Languages
 <p>⌨ JAVASCRIPT</p>
 <p>💻 HTML</p>
 🎨 CSS
