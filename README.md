@@ -3,7 +3,7 @@
 
 
 ## About
-APIcker makes it simple to find most API's available based on their category by either searching it, selecting from an alphabetical list, or selecting from a slide show of suggestiongs.
+APIcker makes it simple to find most API's available based on their category by either searching it, selecting from an alphabetical list, or selecting from a slide show of suggestions.
 
 <br>
 
